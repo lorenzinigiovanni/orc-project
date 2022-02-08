@@ -29,7 +29,7 @@ aaaaaaaaaaaaaa
 
 A capture of the result is also available hereinafter:
 
-aaaaaaaaaaaaaa
+https://user-images.githubusercontent.com/8526483/152973334-594d97ff-8fe0-4f2c-8744-00382a472390.mp4
 
 # Preparation
 
