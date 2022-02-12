@@ -25,11 +25,13 @@ In particular, states are kept continuous and are not discretized, whereas the a
 
 The Network's structure is kept fairly simple and is reported here below:
 
-aaaaaaaaaaaaaa
+![2](https://user-images.githubusercontent.com/56063432/152973735-ad39365d-b3d5-4977-bf93-bf497acc35fd.jpeg)
+
+![1](https://user-images.githubusercontent.com/56063432/152973856-917cb37b-627b-485e-bc94-fbfbfaba4ef1.jpeg)
 
 A capture of the result is also available hereinafter:
 
-aaaaaaaaaaaaaa
+https://user-images.githubusercontent.com/8526483/152973334-594d97ff-8fe0-4f2c-8744-00382a472390.mp4
 
 # Preparation
 
