@@ -32,7 +32,7 @@ def main():
     BATCH_SIZE = 64
 
     # Number of training episodes
-    N_EPISODES = 50
+    N_EPISODES = 500
     # Lenght of a training episode
     MAX_EPISODE_LENGTH = 250
     # Discount factor
